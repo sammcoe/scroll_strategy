@@ -1,0 +1,46 @@
+sprites.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+airDef
+  rotate: false
+  xy: 65, 407
+  size: 54, 76
+  orig: 54, 184
+  offset: 0, 0
+  index: -1
+goldStore
+  rotate: true
+  xy: 2, 407
+  size: 69, 61
+  orig: 79, 83
+  offset: 5, 0
+  index: -1
+wall
+  rotate: false
+  xy: 69, 138
+  size: 47, 175
+  orig: 54, 184
+  offset: 2, 6
+  index: -1
+warrior1
+  rotate: false
+  xy: 2, 275
+  size: 65, 130
+  orig: 75, 150
+  offset: 4, 7
+  index: -1
+warrior2
+  rotate: false
+  xy: 2, 138
+  size: 65, 135
+  orig: 75, 150
+  offset: 4, 2
+  index: -1
+warriorSwing
+  rotate: false
+  xy: 2, 2
+  size: 100, 134
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
